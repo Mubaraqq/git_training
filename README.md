@@ -1,1 +1,1 @@
-The main working directory
+This is when i created a README file
